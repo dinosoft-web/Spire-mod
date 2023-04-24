@@ -14,7 +14,7 @@ const formationToggle = () => {
 
 DATA = [
 	{
-		title: 'Audit',
+		title: 'Diagnostic',
 		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
 	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
 	autem enim incidunt reiciendis accusantium natus possimus eligendi
