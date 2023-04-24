@@ -14,7 +14,7 @@ const formationToggle = () => {
 
 DATA = [
 	{
-		title: 'Diagnostic & Audit',
+		title: 'Audit',
 		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
 	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
 	autem enim incidunt reiciendis accusantium natus possimus eligendi
@@ -29,7 +29,7 @@ DATA = [
 	vero!`,
 		offers: [
 			{
-				title: 'Formations',
+				title: 'Audit',
 				trainings: [
 					{
 						title: 'Diagnostic efficience',
