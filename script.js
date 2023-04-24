@@ -14,6 +14,63 @@ const formationToggle = () => {
 
 DATA = [
 	{
+		title: 'Diagnostic & Audit',
+		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
+	autem enim incidunt reiciendis accusantium natus possimus eligendi
+	reprehenderit at recusandae eum praesentium deserunt veritatis
+	cupiditate iure! Nemo id dolorem, recusandae dolor nam, amet ipsam
+	aspernatur, at error libero perferendis sequi rem tenetur repellendus
+	incidunt quia. Error modi obcaecati cum assumenda illum, non quia
+	aperiam amet quod perferendis ipsa. Nulla consequatur maiores non quia
+	nihil eos? Officiis illum dolor esse, impedit sunt ipsa voluptatibus
+	obcaecati odit dolore, facere iusto nostrum minima modi. Amet iure
+	aliquam molestiae ab blanditiis enim nobis labore iste, repudiandae
+	vero!`,
+		offers: [
+			{
+				title: 'Formations',
+				trainings: [
+					{
+						title: 'Diagnostic efficience',
+						duration: '2',
+						rating: '4,5',
+						link: '',
+					},
+					{
+						title: "Audit - Raison d'être",
+						duration: '2',
+						rating: '4,5',
+						link: '',
+					},
+					{ title: 'Audit managérial', duration: '2', rating: '4,5', link: '' },
+				],
+			},
+			{
+				title: 'Conférences',
+				trainings: [
+					{ title: 'Conférence 1', duration: '2', rating: '4,5', link: '' },
+				],
+			},
+		],
+	},
+	{
+		title: 'Méthode Spire',
+		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
+	autem enim incidunt reiciendis accusantium natus possimus eligendi
+	reprehenderit at recusandae eum praesentium deserunt veritatis
+	cupiditate iure! Nemo id dolorem, recusandae dolor nam, amet ipsam
+	aspernatur, at error libero perferendis sequi rem tenetur repellendus
+	incidunt quia. Error modi obcaecati cum assumenda illum, non quia
+	aperiam amet quod perferendis ipsa. Nulla consequatur maiores non quia
+	nihil eos? Officiis illum dolor esse, impedit sunt ipsa voluptatibus
+	obcaecati odit dolore, facere iusto nostrum minima modi. Amet iure
+	aliquam molestiae ab blanditiis enim nobis labore iste, repudiandae
+	vero!`,
+		offers: [],
+	},
+	{
 		title: 'Management & Leadership',
 		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
 	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
@@ -85,57 +142,7 @@ DATA = [
 			},
 		],
 	},
-	{
-		title: 'Méthode Spire',
-		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
-	autem enim incidunt reiciendis accusantium natus possimus eligendi
-	reprehenderit at recusandae eum praesentium deserunt veritatis
-	cupiditate iure! Nemo id dolorem, recusandae dolor nam, amet ipsam
-	aspernatur, at error libero perferendis sequi rem tenetur repellendus
-	incidunt quia. Error modi obcaecati cum assumenda illum, non quia
-	aperiam amet quod perferendis ipsa. Nulla consequatur maiores non quia
-	nihil eos? Officiis illum dolor esse, impedit sunt ipsa voluptatibus
-	obcaecati odit dolore, facere iusto nostrum minima modi. Amet iure
-	aliquam molestiae ab blanditiis enim nobis labore iste, repudiandae
-	vero!`,
-		offers: [],
-	},
-	{
-		title: 'Diagnostic & Audit',
-		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
-	autem enim incidunt reiciendis accusantium natus possimus eligendi
-	reprehenderit at recusandae eum praesentium deserunt veritatis
-	cupiditate iure! Nemo id dolorem, recusandae dolor nam, amet ipsam
-	aspernatur, at error libero perferendis sequi rem tenetur repellendus
-	incidunt quia. Error modi obcaecati cum assumenda illum, non quia
-	aperiam amet quod perferendis ipsa. Nulla consequatur maiores non quia
-	nihil eos? Officiis illum dolor esse, impedit sunt ipsa voluptatibus
-	obcaecati odit dolore, facere iusto nostrum minima modi. Amet iure
-	aliquam molestiae ab blanditiis enim nobis labore iste, repudiandae
-	vero!`,
-		offers: [
-			{
-				title: 'Formations',
-				trainings: [
-					{
-						title: 'Diagnostic efficience',
-						duration: '2',
-						rating: '4,5',
-						link: '',
-					},
-					{
-						title: "Audit - Raison d'être",
-						duration: '2',
-						rating: '4,5',
-						link: '',
-					},
-					{ title: 'Audit managérial', duration: '2', rating: '4,5', link: '' },
-				],
-			},
-		],
-	},
+
 	{
 		title: 'Découverte',
 		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -169,6 +176,7 @@ DATA = [
 					},
 				],
 			},
+
 			{
 				title: 'Ateliers',
 				trainings: [
@@ -184,6 +192,12 @@ DATA = [
 						rating: '4,5',
 						link: '',
 					},
+				],
+			},
+			{
+				title: 'Conférences',
+				trainings: [
+					{ title: 'Conférence 1', duration: '2', rating: '4,5', link: '' },
 				],
 			},
 		],
@@ -224,6 +238,12 @@ DATA = [
 						rating: '4,5',
 						link: '',
 					},
+				],
+			},
+			{
+				title: 'Ateliers',
+				trainings: [
+					{ title: 'Atelier 1', duration: '2', rating: '4,5', link: '' },
 				],
 			},
 		],
