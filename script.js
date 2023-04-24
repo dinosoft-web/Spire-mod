@@ -145,18 +145,7 @@ DATA = [
 
 	{
 		title: 'Découvrir la subsidiarité',
-		text: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-	Consequuntur, porro consectetur optio voluptate vitae minima excepturi
-	autem enim incidunt reiciendis accusantium natus possimus eligendi
-	reprehenderit at recusandae eum praesentium deserunt veritatis
-	cupiditate iure! Nemo id dolorem, recusandae dolor nam, amet ipsam
-	aspernatur, at error libero perferendis sequi rem tenetur repellendus
-	incidunt quia. Error modi obcaecati cum assumenda illum, non quia
-	aperiam amet quod perferendis ipsa. Nulla consequatur maiores non quia
-	nihil eos? Officiis illum dolor esse, impedit sunt ipsa voluptatibus
-	obcaecati odit dolore, facere iusto nostrum minima modi. Amet iure
-	aliquam molestiae ab blanditiis enim nobis labore iste, repudiandae
-	vero!`,
+		text: `Découvrez et initiez vous aux principes de la subsidiarité. Nos ateliers expérientiels et conférences sont conçus pour vous offrir une expérience d'apprentissage unique et pertinente en seulement 2 ou 3 heures. Grâce à notre approche innovante et flexible qui vous permettra d'évaluer la pertinence de la mise en oeuvre de la subsidiarité dans votre organisation, vous partirez avec des outils concrets et renforcerez, ainsi, votre capacité à agir pour un impact global positif. Rejoignez-nous dès maintenant pour découvrir la subsidiarité sous un nouvel angle.`,
 		offers: [
 			{
 				title: 'Conférences',
