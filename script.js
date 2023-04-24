@@ -159,7 +159,7 @@ DATA = [
 	vero!`,
 		offers: [
 			{
-				title: 'Formations',
+				title: 'Conférences',
 				trainings: [
 					{ title: 'La Subsidiarité', duration: '2', rating: '4,5', link: '' },
 					{
@@ -192,12 +192,6 @@ DATA = [
 						rating: '4,5',
 						link: '',
 					},
-				],
-			},
-			{
-				title: 'Conférences',
-				trainings: [
-					{ title: 'Conférence 1', duration: '2', rating: '4,5', link: '' },
 				],
 			},
 		],
